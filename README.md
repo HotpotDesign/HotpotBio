@@ -149,8 +149,8 @@ Hotpot.ai
 
 # Author and Contact
 Clarence Hu
-X (preferred): https://x.com/panabee
-Email: clarence --at-- hotpot dot ai
+- X (preferred): https://x.com/panabee
+- Email: clarence --at-- hotpot dot ai
 
 # References
 1. https://www.who.int/news-room/fact-sheets/detail/cancer
